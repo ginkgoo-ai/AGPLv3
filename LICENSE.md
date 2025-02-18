@@ -11,9 +11,7 @@ This software is offered under both a **commercial license** and the **GNU Affer
 - **AGPL-3.0 License**:  
   This software is free software: you can **use, modify, and distribute** it  
   under the terms of the **GNU Affero General Public License v3.0 (AGPL-3.0)**.  
-  For the complete AGPL-3.0 license text, see the [`LICENSE-AGPL`](./LICENSE-AGPL) file.
-
----
+  For the complete AGPL-3.0 license text, see the [**LICENSE-AGPL**](./LICENSE-AGPL) file.
 
 # Disclaimer of Warranty
 
@@ -23,6 +21,6 @@ but **WITHOUT ANY WARRANTY**; without even the implied warranty of
 See the **GNU Affero General Public License v3.0 (AGPL-3.0)** for more details.
 
 If you have not received a copy of the AGPL-3.0 license,  
-you can obtain one at: <https://www.gnu.org/licenses/agpl-3.0.html>
+you can obtain one at: <**https://www.gnu.org/licenses/agpl-3.0.html**>
 
 © 2025 Ginkgo Innovations (UK) Limited. All rights reserved.
