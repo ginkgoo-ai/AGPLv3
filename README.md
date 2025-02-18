@@ -27,17 +27,17 @@ Each file includes a licensing header and serves as a simple reference for using
 
 ## Contributing
 
-We welcome contributions!  
+We welcome contributions!
 Please read our **[Contributing Guide](./CONTRIBUTING.md)** before submitting issues or pull requests.
 
 ## Code of Conduct
 
-To foster a welcoming and inclusive environment, we adhere to our **[Code of Conduct](./CODE_OF_CONDUCT.md)**.  
+To foster a welcoming and inclusive environment, we adhere to our **[Code of Conduct](./CODE_OF_CONDUCT.md)**.
 All contributors are expected to follow these guidelines.
 
 ## Contributor License Agreement (CLA)
 
-Before making any contributions, you must agree to our **[CLA](./CLA.md)**.  
+Before making any contributions, you must agree to our **[CLA](./CLA.md)**.
 This ensures that all contributions align with the project’s **dual licensing model**.
 
 If you have any questions, contact **[license@ginkgoo.ai](mailto:license@ginkgoo.ai)**.
