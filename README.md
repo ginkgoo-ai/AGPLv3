@@ -13,6 +13,18 @@ This project is available under a **dual licensing model**:
   or require a **proprietary license** with different terms,  
   please contact **[license@ginkgoo.ai](mailto:license@ginkgoo.ai)**.
 
+## Examples
+
+The `examples/` directory contains sample implementations in different programming languages  
+to demonstrate basic usage.
+
+- [Java Example](examples/Example.java)
+- [Go Example](examples/example.go)
+- [JavaScript Example](examples/example.js)
+- [Python Example](examples/example.py)
+
+Each file includes a licensing header and serves as a simple reference for using this project.
+
 ---
 
 © 2025 Ginkgo Innovations. All rights reserved.
